@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Albina Press",
+        "Address": "4637 N Albina Ave  Portland, OR 97217",
+        "Notes": "usually busy, outlets on side wall only"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67516911029816,
+          45.55673233031101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Arbor Lodge",
+        "Address": "1507 N Rosa Parks Way  Portland, OR 97217",
+        "Notes": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68242716789246,
+          45.56997505986905
+        ]
+      }
+    }
+  ]
+}
