@@ -74,7 +74,9 @@ Beyond that, there are two main ways to contribute to this dataset: one is to **
 
 These are the files that are currently in the repository and can be edited:
 
-  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
+  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
+  - [cupcakes.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/cupcakes.geojson): Places to get cupcakes (currently only Portland)
+  - [hackspots.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/hackspots.geojson): Great places to hack in Portland, as dictated by [this list](https://wraithan.etherpad.mozilla.org/cafe-hacking-pdx)
 
 *Note: opening files from GitHub in geojson.io is currently not working unless you are in Chrome and have the geojson.io extension. The following instructions are for Chrome users.*
 
@@ -108,3 +110,4 @@ These are the things that haven't been written/completed yet:
 - Settling on a desired schema for datasets.
 - A tutorial for using this data in custom maps.
 - Instructions for use without the Chrome extension (waiting on geojson.io fix)
+- "Help us out!" section for folks who want their geojson files to be edited/contributed to in a specific way.
