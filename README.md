@@ -81,10 +81,11 @@ These are the files that are currently in the repository and can be edited:
 *Note: opening files from GitHub in geojson.io is currently not working unless you are in Chrome and have the geojson.io extension. The following instructions are for Chrome users.*
 
 1. If you haven't done so yet, get yourself a [GitHub](http://github.com) account and download [git](http://git-scm.org). (These instructions don't use git on the command line, but many of these principles can be used and mirrored with git in the command line.)
-2. Download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io.
+2. Download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io. (If you use Chrome. If not, don't worry about it.)
 3. Once you're all logged in to your GitHub account, navigate over to the [learn-geojson](http://github.com/lyzidiamond/learn-geojson) repo and press the button at the top that says Fork. *Forking* a repo makes a copy of it that is all yours. Head on over to github.com/[yourusername]/learn-geojson. This is your copy of the repo!
 4. In *your* copy, click through to the file you want to edit. You should see a nice little map showing the points in the dataset. Just for fun, click on one of the points. A popup appears with attribute information for the point! Neat, huh?
-5. Click the little button that says geojson.io. The GeoJSON file is now open and editable in geojson.io.
+5a. If you're using the Chrome extension, you will see a little button that says geojson.io. Click on it. The GeoJSON file is now open and editable in geojson.io.
+5b. If you're not using the Chrome extension, head on over to geojson.io. Click Open on the top, click GitHub on the top, navigate through to the GeoJSON file you want to edit, and press Open. The GeoJSON file is now open and editable in geojson.io.
 6. Add a point. Add some attributes for that point.
 7. Notice that above your "attribute table" there's a little button that says "</> JSON" on it. Go ahead and click on that.
 8. This is GeoJSON! Take a look at the last point in the list. It's the one you just created! Each of your attributes is in the "properties" section, and there are coordinates for where you placed the point housed in the "geometry" section. So really, what you're doing is adding some lines of code to a .geojson file! This will be important later.
