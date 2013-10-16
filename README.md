@@ -74,18 +74,18 @@ Beyond that, there are two main ways to contribute to this dataset: one is to **
 
 These are the files that are currently in the repository and can be edited:
 
-  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
-  - [cupcakes.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/cupcakes.geojson): Places to get cupcakes (currently only Portland)
-  - [hackspots.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/hackspots.geojson): Great places to hack in Portland, as dictated by [this list](https://wraithan.etherpad.mozilla.org/cafe-hacking-pdx)
+  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
+
+*Note: opening files from GitHub in geojson.io is currently not working unless you are in Chrome and have the geojson.io extension. The following instructions are for Chrome users.*
 
 1. If you haven't done so yet, get yourself a [GitHub](http://github.com) account and download [git](http://git-scm.org). (These instructions don't use git on the command line, but many of these principles can be used and mirrored with git in the command line.)
-2. Download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io. (If you use Chrome. If not, don't worry about it.)
+2. Download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io.
 3. Once you're all logged in to your GitHub account, navigate over to the [learn-geojson](http://github.com/lyzidiamond/learn-geojson) repo and press the button at the top that says Fork. *Forking* a repo makes a copy of it that is all yours. Head on over to github.com/[yourusername]/learn-geojson. This is your copy of the repo!
 4. In *your* copy, click through to the file you want to edit. You should see a nice little map showing the points in the dataset. Just for fun, click on one of the points. A popup appears with attribute information for the point! Neat, huh?
-5. If you're using the Chrome extension, you will see a little button that says geojson.io. Click on it. The GeoJSON file is now open and editable in geojson.io. If you're **not** using the Chrome extension, head on over to [geojson.io](http://geojson.io). Click Open on the top, click GitHub on the top, navigate through to the GeoJSON file you want to edit, and press Open. The GeoJSON file is now open and editable in geojson.io.
+5. Click the little button that says geojson.io. The GeoJSON file is now open and editable in geojson.io.
 6. Add a point. Add some attributes for that point.
 7. Notice that above your "attribute table" there's a little button that says "</> JSON" on it. Go ahead and click on that.
-8. This is GeoJSON! Take a look at the last point in the list. It's the one you just created! Each of your attributes is in the "properties" section, and there are coordinates for where you placed the point housed in the "geometry" section. You can edit the properties and geometry directly in the GeoJSON view. If you edit the GeoJSON directly and make a mistake, use [GeoJSONLint](http://geojsonlint.com/) to find errors. What you're doing is adding some lines of code to a .geojson file! This will be important later.
+8. This is GeoJSON! Take a look at the last point in the list. It's the one you just created! Each of your attributes is in the "properties" section, and there are coordinates for where you placed the point housed in the "geometry" section. So really, what you're doing is adding some lines of code to a .geojson file! This will be important later.
 9. Add as many more points as you want. Seriously. Go to town.
 10. When you're done adding points, click Save on the top bar. A small box appears asking for a "Commit message." Type in a short description of the points you added and press Commit.
 11. Once you've done that, a little box pops up in the same area that says, "Changes committed to GitHub:" followed by a series of numbers and letters. Click on the numbers/letters.
@@ -108,4 +108,3 @@ These are the things that haven't been written/completed yet:
 - Settling on a desired schema for datasets.
 - A tutorial for using this data in custom maps.
 - Instructions for use without the Chrome extension (waiting on geojson.io fix)
-- "Help us out!" section for folks who want their geojson files to be edited/contributed to in a specific way.
