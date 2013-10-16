@@ -78,8 +78,6 @@ These are the files that are currently in the repository and can be edited:
   - [cupcakes.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/cupcakes.geojson): Places to get cupcakes (currently only Portland)
   - [hackspots.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/hackspots.geojson): Great places to hack in Portland, as dictated by [this list](https://wraithan.etherpad.mozilla.org/cafe-hacking-pdx)
 
-*Note: opening files from GitHub in geojson.io is currently not working unless you are in Chrome and have the geojson.io extension. The following instructions are for Chrome users.*
-
 1. If you haven't done so yet, get yourself a [GitHub](http://github.com) account and download [git](http://git-scm.org). (These instructions don't use git on the command line, but many of these principles can be used and mirrored with git in the command line.)
 2. Download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io. (If you use Chrome. If not, don't worry about it.)
 3. Once you're all logged in to your GitHub account, navigate over to the [learn-geojson](http://github.com/lyzidiamond/learn-geojson) repo and press the button at the top that says Fork. *Forking* a repo makes a copy of it that is all yours. Head on over to github.com/[yourusername]/learn-geojson. This is your copy of the repo!
