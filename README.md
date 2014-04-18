@@ -75,7 +75,7 @@ Beyond that, there are two main ways to contribute to this dataset: one is to **
 
 These are the files that are currently in the repository and can be edited:
 
-  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
+  - [pdxplaces.geojson](https://github.com/lyzidiamond/learn-geojson/blob/master/geojson/pdxplaces.geojson): Cool places in Portland (dummy dataset for practice)
 
 1. If you haven't done so yet, get yourself a [GitHub](http://github.com) account and download [git](http://git-scm.org). (These instructions don't use git on the command line, but many of these principles can be used and mirrored with git in the command line.)
 2. If you're using the Chrome browser, download the [geojson.io Chrome extension](https://chrome.google.com/webstore/detail/geojsonio/oibjgofbhldcajfamjganpeacipebckp). This will allow you to click through directly from your GeoJSON file to geojson.io.
