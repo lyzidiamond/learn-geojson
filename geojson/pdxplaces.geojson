@@ -357,6 +357,21 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Somewhere in the hills",
+        "Contributor": "Courtney Claessens",
+        "Reason": "playing around!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.72071838378905,
+          45.52078170816289
+        ]
+      }
     }
   ]
 }
