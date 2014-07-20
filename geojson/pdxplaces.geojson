@@ -372,6 +372,21 @@
           45.52078170816289
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Powell's City of Books",
+        "Contributor": "Cecily Walker",
+        "Reason": "incredible bookstore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.68172442913054,
+          45.523358157307676
+        ]
+      }
     }
   ]
 }
