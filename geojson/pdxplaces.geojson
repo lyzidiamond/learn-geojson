@@ -325,42 +325,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Name": "Square 54",
-        "Contributor": "Henrik",
-        "Reason": "Mystic zombie area",
-        "my polygon": ""
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -122.7835464477539,
-              45.4752995284569
-            ],
-            [
-              -122.7835464477539,
-              45.48877955983892
-            ],
-            [
-              -122.76088714599608,
-              45.48877955983892
-            ],
-            [
-              -122.76088714599608,
-              45.4752995284569
-            ],
-            [
-              -122.7835464477539,
-              45.4752995284569
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Name": "Somewhere in the hills",
         "Contributor": "Courtney Claessens",
         "Reason": "playing around!"
@@ -385,6 +349,19 @@
         "coordinates": [
           -122.68172442913054,
           45.523358157307676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Test"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63385772705077,
+          45.515970517182474
         ]
       }
     }
