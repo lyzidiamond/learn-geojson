@@ -387,6 +387,21 @@
           45.523358157307676
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Waffle Window",
+        "Contributor": "Joshua Houston",
+        "Reason": "Delicious waffles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62656211853026,
+          45.51194458737224
+        ]
+      }
     }
   ]
 }
