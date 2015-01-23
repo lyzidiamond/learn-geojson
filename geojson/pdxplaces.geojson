@@ -402,6 +402,66 @@
           45.51194458737224
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Roman Candle Baking Co.",
+        "Contributor": "Joshua Houston",
+        "Reason": "Gourmet Pop Tarts!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6298773288727,
+          45.50500096737137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Salt & Straw Ice Cream",
+        "Contributor": "Joshua Houston",
+        "Reason": "Pint milkshakes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.63067126274107,
+          45.504985928824084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Blue Star Donuts",
+        "Contributor": "Joshua Houston",
+        "Reason": "Alcohol injected donuts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.62871861457825,
+          45.51221524714587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lincoln St. Kayak + Canoe Museum",
+        "Contributor": "Joshua Houston",
+        "Reason": "Tons of gorgeous hand-made kayaks!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6072609424591,
+          45.5078694967952
+        ]
+      }
     }
   ]
 }
