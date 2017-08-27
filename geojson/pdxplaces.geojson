@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Stuttgarter Hofbräu Brau",
+        "Contributor": "Milton Centeno",
+        "Reason": "Awesome local German Bier!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.748802,
+          9.158207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Tiny's Southeast",
         "Contributor": "Lyzi Diamond",
         "Reason": "Favorite Coffee Shop"
