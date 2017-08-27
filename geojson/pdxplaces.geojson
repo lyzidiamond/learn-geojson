@@ -19,6 +19,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Riomaggiore",
+        "Contributor": "Milton Centeno",
+        "Reason": "One of 5 beautiful towns in Cinque Terre Italy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.73652,
+          44.1008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Stuttgarter Hofbräu Brau",
         "Contributor": "Milton Centeno",
         "Reason": "Awesome local German Bier!"
