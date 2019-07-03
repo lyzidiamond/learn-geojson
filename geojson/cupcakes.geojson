@@ -13,7 +13,7 @@
             "properties": {
                 "name": "Hungry Heart Cupcakes",
                 "address": "1212 SE Hawthorne Boulevard",
-                "website": "http://www.hungryheartcupcakes.com",
+                "website": "https://www.hungryheartcupcakes.com",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 11am - 9pm"
             }
@@ -30,7 +30,7 @@
             "properties": {
                 "name": "New Cascadia Traditional",
                 "address": "1700 SE 6th Avenue",
-                "website": "http://www.newcascadiatraditional.com/",
+                "website": "https://www.newcascadiatraditional.com/",
                 "gluten free": "yes",
                 "open1": "Tuesday - Friday, 7:30am - 5pm",
                 "open2": "Saturday, 8am - 4pm"
@@ -48,7 +48,7 @@
             "properties": {
                 "name": "Saint Cupcake Galore",
                 "address": "1138 SW Morrison Street",
-                "website": "http://www.saintcupcake.com",
+                "website": "https://www.saintcupcake.com",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 9am - 7pm",
                 "open2": "Saturday, 10am - 7pm",
@@ -67,7 +67,7 @@
             "properties": {
                 "name": "Saint Cupcake Deluxe",
                 "address": "3300 SE Belmont Street",
-                "website": "http://www.saintcupcake.com",
+                "website": "https://www.saintcupcake.com",
                 "gluten free": "no",
                 "open1": "Tuesday - Saturday, 10am - 7pm",
                 "open2": "Sunday, 10am - 5pm"
@@ -85,7 +85,7 @@
             "properties": {
                 "name": "Cupcake Jones",
                 "address": "307 NW 10th Avenue",
-                "website": "http://www.cupcakejones.net",
+                "website": "https://www.cupcakejones.net",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 10am - 8pm",
                 "open2": "Sunday, 12pm - 6pm"
@@ -103,7 +103,7 @@
             "properties": {
                 "name": "Meaty's Cupcakes",
                 "address": "SE 102nd Avenue & Stark Street",
-                "website": "http://www.meatyscupcakes.com/",
+                "website": "https://www.meatyscupcakes.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 12pm - 5:30pm",
                 "open2": "Satuday, 11am - 6pm"
@@ -121,7 +121,7 @@
             "properties": {
                 "name": "Sweetpea Baking Company",
                 "address": "1205 SE Stark Avenue",
-                "website": "http://www.sweetpeabaking.com/",
+                "website": "https://www.sweetpeabaking.com/",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 8am - 6pm",
                 "open2": "Sunday, 9am - 4:30pm"
@@ -139,7 +139,7 @@
             "properties": {
                 "name": "Pastrygirl",
                 "address": "7919 SE Stark Street",
-                "website": "http://www.pastrygirl.com/",
+                "website": "https://www.pastrygirl.com/",
                 "gluten free": "yes",
                 "open1": "Monday, Wednesday - Thursday, Sunday, 12pm - 8pm",
                 "open2": "Friday - Saturday, 12pm - 9pm"
@@ -157,7 +157,7 @@
             "properties": {
                 "name": "Sweetest Thing Cupcakes",
                 "address": "7401 SW Bridgeport Road",
-                "website": "http://www.sweetestthingcupcakes.com/",
+                "website": "https://www.sweetestthingcupcakes.com/",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 11am - 8pm",
                 "open2": "Sunday, 11am - 6pm"
@@ -175,7 +175,7 @@
             "properties": {
                 "name": "Back To Eden Bakery",
                 "address": "2217 NE Alberta Street",
-                "website": "http://www.backtoedenbakery.com/",
+                "website": "https://www.backtoedenbakery.com/",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 9am - 10pm"
             }
@@ -192,7 +192,7 @@
             "properties": {
                 "name": "JaCiva's Bakery",
                 "address": "4733 SE Hawthorne Boulevard",
-                "website": "http://www.jacivas.com/",
+                "website": "https://www.jacivas.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Wednesday, 8am - 6pm",
                 "open2": "Thursday - Saturday, 8am - 10pm"
@@ -210,7 +210,7 @@
             "properties": {
                 "name": "Piece of Cake Catering & Desserts",
                 "address": "8306 SE 17th Avenue",
-                "website": "http://www.pieceofcakebakery.net/",
+                "website": "https://www.pieceofcakebakery.net/",
                 "gluten free": "yes",
                 "open1": "Monday - Friday, 9am - 6pm",
                 "open2": "Satudray, 10am - 10:30pm"
@@ -228,7 +228,7 @@
             "properties": {
                 "name": "Bliss Bake Shop",
                 "address": "4708 NW Bethany Boulevard",
-                "website": "http://www.blisscupcakeshop.com/",
+                "website": "https://www.blisscupcakeshop.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Saturday, 10am - 8pm",
                 "open2": "Sunday, 11am - 5pm"
@@ -246,7 +246,7 @@
             "properties": {
                 "name": "Petunia's Pies & Pastries",
                 "address": "610 SW 12th Ave",
-                "website": "http://www.petuniaspiesandpastries.com/",
+                "website": "https://www.petuniaspiesandpastries.com/",
                 "gluten free": "yes",
                 "open1": "Tuesday - Thursday, 9am - 9am",
                 "open2": "Friday - Saturday, 9am - 10pm",
@@ -265,7 +265,7 @@
             "properties": {
                 "name": "Cravin Raven Bakery",
                 "address": "8339 SE 13th Ave",
-                "website": "http://www.cravinraven.com/",
+                "website": "https://www.cravinraven.com/",
                 "gluten free": "yes",
                 "open1": "Tuesday - Friday, 8am - 5pm",
                 "open2": "Saturday, 9am - 3:30pm"
@@ -283,7 +283,7 @@
             "properties": {
                 "name": "Le Cookie Monkey",
                 "address": "1902 NW 24th Avenue",
-                "website": "http://www.lecookiemonkey.com/",
+                "website": "https://www.lecookiemonkey.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 9am - 3pm",
                 "open2": "Saturday, 9am - 2pm"
@@ -301,7 +301,7 @@
             "properties": {
                 "name": "Crema Coffee + Bakery",
                 "address": "2728 SE Ankeny Street",
-                "website": "http://www.cremabakery.com/",
+                "website": "https://www.cremabakery.com/",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 7am - 6pm"
             }
@@ -318,7 +318,7 @@
             "properties": {
                 "name": "Mehri's Bakery & Deli",
                 "address": "6923 SE 52nd Avenue",
-                "website": "http://www.mehris.com/",
+                "website": "https://www.mehris.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 7am - 7pm",
                 "open2": "Saturday, 8am - 5pm",
@@ -337,7 +337,7 @@
             "properties": {
                 "name": "Crave Bake Shop",
                 "address": "460 SW 5th Street, Lake Oswego, OR",
-                "website": "http://www.cravebakeshop.com/",
+                "website": "https://www.cravebakeshop.com/",
                 "gluten free": "yes",
                 "open1": "Monday - Friday, 8am - 5pm",
                 "open2": "Saturday, 8am - 4pm"
@@ -355,7 +355,7 @@
             "properties": {
                 "name": "Baker & Spice",
                 "address": "6330 SW Capitol Highway",
-                "website": "http://www.bakerandspicebakery.com/",
+                "website": "https://www.bakerandspicebakery.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 6am - 6pm",
                 "open2": "Saturday, 7am - 6pm",
@@ -391,7 +391,7 @@
             "properties": {
                 "name": "An Xuyen Bakery",
                 "address": "5345 SE Foster Road",
-                "website": "http://www.anxuyenbakery.com/",
+                "website": "https://www.anxuyenbakery.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Saturday, 7am - 6pm",
                 "open2": "Sunday, 7am - 3pm"
@@ -409,7 +409,7 @@
             "properties": {
                 "name": "Treat",
                 "address": "210 W Evergreen Boulevard, Vancouver, WA",
-                "website": "http://www.treatvancouver.com/",
+                "website": "https://www.treatvancouver.com/",
                 "gluten free": "no",
                 "open1": "Monday, 10am - 2pm",
                 "open2": "Tuesday - Friday, 10am - 4pm"
@@ -446,7 +446,7 @@
             "properties": {
                 "name": "Helen Bernhard Bakery",
                 "address": "1717 NE Broadway Street",
-                "website": "http://helenbernhardbakery.com",
+                "website": "https://helenbernhardbakery.com",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 6am - 6pm",
                 "open2": "Sunday, 8am - 3pm"
@@ -464,7 +464,7 @@
             "properties": {
                 "name": "The Sugar Shop",
                 "address": "5221 NE Sandy Boulevard",
-                "website": "http://www.thesugarshoppdx.com",
+                "website": "https://www.thesugarshoppdx.com",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 11am - 8pm"
             }
@@ -481,7 +481,7 @@
             "properties": {
                 "name": "Simply Sweets",
                 "address": "316 E Mill Plain Boulevard, Vancouver, WA",
-                "website": "http://www.simplysweetsbyjen.com",
+                "website": "https://www.simplysweetsbyjen.com",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 7am - 5pm"
             }
@@ -498,7 +498,7 @@
             "properties": {
                 "name": "Little T American Baker",
                 "address": "2600 SE Division Street",
-                "website": "http://www.littletbaker.com",
+                "website": "https://www.littletbaker.com",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 7am - 5pm",
                 "open2": "Sunday, 8am - 2pm"
@@ -516,7 +516,7 @@
             "properties": {
                 "name": "Girl Friday Bakery",
                 "address": "1930 NE Everett",
-                "website": "http://www.girlfridaybakery.com",
+                "website": "https://www.girlfridaybakery.com",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 11:30am - 7pm",
                 "open2": "Saturday, 10am - 7pm"
@@ -534,7 +534,7 @@
             "properties": {
                 "name": "Blue Collar Baking Company",
                 "address": "319 SW Pine Street",
-                "website": "http://www.bluecollarbaking.com",
+                "website": "https://www.bluecollarbaking.com",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 7am - 5:30pm",
                 "open2": "Saturday, 7:30am - 3pm"
@@ -552,7 +552,7 @@
             "properties": {
                 "name": "Keana's Candyland",
                 "address": "5314 SE Milwaukie Avenue",
-                "website": "http://www.keanascandyland.net",
+                "website": "https://www.keanascandyland.net",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 10am - 6pm"
             }
@@ -569,7 +569,7 @@
             "properties": {
                 "name": "The Dessert Tray",
                 "address": "11950 SW Broadway Street, Beaverton, OR",
-                "website": "http://www.thedesserttray.com",
+                "website": "https://www.thedesserttray.com",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 7am - 6pm",
                 "open2": "Saturday, 10am - 6pm"
@@ -587,7 +587,7 @@
             "properties": {
                 "name": "Tula Gluten Free Bakery Cafe",
                 "address": "4943 NE Martin Luther King Jr Boulevard",
-                "website": "http://www.tulabaking.com",
+                "website": "https://www.tulabaking.com",
                 "gluten free": "yes",
                 "open1": "Monday - Saturday, 7am - 6pm",
                 "open2": "Sunday, 8am - 3pm"
@@ -605,7 +605,7 @@
             "properties": {
                 "name": "Pearl Bakery",
                 "address": "102 NW 9th Avenue",
-                "website": "http://www.pearlbakery.com",
+                "website": "https://www.pearlbakery.com",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 6:30am - 5:30pm",
                 "open2": "Saturday, 7am - 5pm",
@@ -642,7 +642,7 @@
             "properties": {
                 "name": "Beaverton Bakery",
                 "address": "7000 NE Airport Way",
-                "website": "http://www.beavertonbakery.com/",
+                "website": "https://www.beavertonbakery.com/",
                 "gluten free": "no",
                 "open1": "24 Hours"
             }
@@ -659,7 +659,7 @@
             "properties": {
                 "name": "Meianna Bakery",
                 "address": "2850 SE 82nd Avenue",
-                "website": "http://www.fubonn.com/",
+                "website": "https://www.fubonn.com/",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 9am - 8pm"
             }
@@ -676,7 +676,7 @@
             "properties": {
                 "name": "Pizazz Sweets",
                 "address": "18305 Timbergrove Court, Lake Oswego, OR",
-                "website": "http://www.pizazzsweets.com/",
+                "website": "https://www.pizazzsweets.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 9am - 5pm"
             }
@@ -693,7 +693,7 @@
             "properties": {
                 "name": "Two Tarts Bakery",
                 "address": "2309 NW Kearney Street",
-                "website": "http://www.twotartsbakery.com/",
+                "website": "https://www.twotartsbakery.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Saturday, 10:30am - 6pm",
                 "open2": "Sunday, 12pm - 5pm"
@@ -711,7 +711,7 @@
             "properties": {
                 "name": "Emilie Dessert Cafe",
                 "address": "8680 SW Canyon Road",
-                "website": "http://www.emiliedessertcafe.com/",
+                "website": "https://www.emiliedessertcafe.com/",
                 "gluten free": "no",
                 "open1": "Monday, 7am - 5pm",
                 "open2": "Tuesday - Saturday, 7am - 6pm"
@@ -729,7 +729,7 @@
             "properties": {
                 "name": "Divine Bites",
                 "address": "904 Main Street, Vancouver, WA",
-                "website": "http://www.divineconsignfurniture.org/",
+                "website": "https://www.divineconsignfurniture.org/",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 10am - 5:30pm"
             }
@@ -746,7 +746,7 @@
             "properties": {
                 "name": "Nuvrei Patisserie & Cafe",
                 "address": "404 NW 10th Avenue",
-                "website": "http://www.nuvrei.com/",
+                "website": "https://www.nuvrei.com/",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 7am - 5pm",
                 "open2": "Sunday, 8am - 5pm"
@@ -764,7 +764,7 @@
             "properties": {
                 "name": "His Bakery",
                 "address": "6011 SE 72nd Avenue",
-                "website": "http://www.hisbakery.com/",
+                "website": "https://www.hisbakery.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Friday, 7am - 6pm",
                 "open2": "Satuday, 8am - 1pm"
@@ -782,7 +782,7 @@
             "properties": {
                 "name": "Sweet Ambrosia",
                 "address": "2037 NW Miller Road",
-                "website": "http://www.sweetambrosiabakery.com/",
+                "website": "https://www.sweetambrosiabakery.com/",
                 "gluten free": "no",
                 "open1": "Monday - Tuesday, Thurdsay, 8am - 5pm",
                 "open2": "Wednesday, Friday, 8am - 8pm",
@@ -801,7 +801,7 @@
             "properties": {
                 "name": "Beaverton Bakery",
                 "address": "12375 SW Broadway Street, Beaverton, OR",
-                "website": "http://www.beavertonbakery.com/",
+                "website": "https://www.beavertonbakery.com/",
                 "gluten free": "no",
                 "open1": "Monday - Saturday, 6am - 6pm",
                 "open2": "Sunday, 8am - 4pm"
@@ -819,7 +819,7 @@
             "properties": {
                 "name": "f&b cafe at Rejuvenation",
                 "address": "1100 SE Grand Avenue",
-                "website": "http://www.fandbcafe.com/",
+                "website": "https://www.fandbcafe.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 7:30am - 3:30pm",
                 "open2": "Saturday, 9am - 3:30pm",
@@ -838,7 +838,7 @@
             "properties": {
                 "name": "Anna Bannanas",
                 "address": "1214 NW 21st Avenue",
-                "website": "http://www.annabannanascafe.com/",
+                "website": "https://www.annabannanascafe.com/",
                 "gluten free": "no",
                 "open1": "Monday - Thursday, 7:30am - 11pm",
                 "open2": "Friday, 7:30am - 12am",
@@ -858,7 +858,7 @@
             "properties": {
                 "name": "Bakery Bar",
                 "address": "2935 NE Glisan Street",
-                "website": "http://www.bakerybar.com/",
+                "website": "https://www.bakerybar.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 7am - 2pm",
                 "open2": "Saturday - Sunday, 8am - 2pm"
@@ -876,7 +876,7 @@
             "properties": {
                 "name": "Mireille's Bistro",
                 "address": "16755 SW Baseline Road, Beaverton, OR",
-                "website": "http://www.mireillesbistro.com/",
+                "website": "https://www.mireillesbistro.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 11am - 8pm",
                 "open2": "Saturday, 9am - 8pm",
@@ -895,7 +895,7 @@
             "properties": {
                 "name": "Moonstruck Chocolate Cafe",
                 "address": "608 SW Alder Street",
-                "website": "http://www.moonstruckchocolate.com/",
+                "website": "https://www.moonstruckchocolate.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 8am - 6pm",
                 "open2": "Saturday, 10am - 6pm",
@@ -914,7 +914,7 @@
             "properties": {
                 "name": "Rain or Shine Coffee House",
                 "address": "5941 SE Division Street",
-                "website": "http://www.rainorshinepdx.com/",
+                "website": "https://www.rainorshinepdx.com/",
                 "gluten free": "no",
                 "open1": "Monday - Wednesday, Friday, 6am - 6pm",
                 "open2": "Thursday, 6am - 8pm",
@@ -933,7 +933,7 @@
             "properties": {
                 "name": "Moonstruck Chocolate Cafe",
                 "address": "526 NW 23td Ave",
-                "website": "http://www.moonstruckchocolate.com/",
+                "website": "https://www.moonstruckchocolate.com/",
                 "gluten free": "no",
                 "open1": "Monday - Thursday, 8am - 10pm",
                 "open2": "Friday - Saturday, 8am - 11pm",
@@ -952,7 +952,7 @@
             "properties": {
                 "name": "Southeast Grind",
                 "address": "1223 SE Powell Boulevard",
-                "website": "http://www.southeastgrind.com/",
+                "website": "https://www.southeastgrind.com/",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 6am - 6am"
             }
@@ -969,7 +969,7 @@
             "properties": {
                 "name": "The Black Cat Cafe",
                 "address": "1203 NE Alberta Street",
-                "website": "http://www.theblackcatcafe.com/",
+                "website": "https://www.theblackcatcafe.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 6am - 10:30pm",
                 "open2": "Saturday - Sunday, 7am - 10:30pm"
@@ -987,7 +987,7 @@
             "properties": {
                 "name": "Beaverton Bakery",
                 "address": "16857 SW 65th Avenue, Lake Oswego, OR",
-                "website": "http://www.beavertonbakery.com/",
+                "website": "https://www.beavertonbakery.com/",
                 "gluten free": "no",
                 "open1": "Tuesday - Saturday, 7am - 5pm"
             }
@@ -1004,7 +1004,7 @@
             "properties": {
                 "name": "Posies Cafe",
                 "address": "8208 N Denver Avenue",
-                "website": "http://www.posiescafe.com/",
+                "website": "https://www.posiescafe.com/",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 6:30am - 6pm",
                 "open2": "Saturday - Sunday, 7:30am - 6pm"
@@ -1022,7 +1022,7 @@
             "properties": {
                 "name": "Red and Black Cafe",
                 "address": "400 SE 12th Avenue",
-                "website": "http://www.redandblackcafe.com/",
+                "website": "https://www.redandblackcafe.com/",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 9am - 10pm"
             }
@@ -1039,7 +1039,7 @@
             "properties": {
                 "name": "Tea Zone and Camellia Lounge",
                 "address": "510 NW 11th Avenue",
-                "website": "http://www.teazone.com/",
+                "website": "https://www.teazone.com/",
                 "gluten free": "no",
                 "open1": "Monday, Sunday, 8am - 9pm",
                 "open2": "Tuesday - Saturday, 8am - 10pm"
@@ -1075,7 +1075,7 @@
             "properties": {
                 "name": "Rose's Restaurant and Bakery",
                 "address": "3205 SE 192nd Avenue, Vancouver, WA",
-                "website": "http://www.eatatroses.com",
+                "website": "https://www.eatatroses.com",
                 "gluten free": "no",
                 "open1": "Monday - Tuesday, 11am - 8pm",
                 "open2": "Wednesday - Thursday, 11am - 9pm",
@@ -1096,7 +1096,7 @@
             "properties": {
                 "name": "Cookies Cupcakes and More",
                 "address": "2300 Tulane Street, West Linn, OR",
-                "website": "http://www.gourmetcupcakebakery.com",
+                "website": "https://www.gourmetcupcakebakery.com",
                 "gluten free": "no",
                 "open1": "Monday - Friday, 8am - 6pm"
             }
@@ -1113,7 +1113,7 @@
             "properties": {
                 "name": "St. Honore Bakery",
                 "address": "2335 NW Thurman Street",
-                "website": "http://www.sainthonorebakery.com",
+                "website": "https://www.sainthonorebakery.com",
                 "gluten free": "no",
                 "open1": "Monday - Sunday, 7am - 8pm"
             }
@@ -1130,7 +1130,7 @@
             "properties": {
                 "name": "New Seasons - Seven Corners",
                 "address": "1954 SE Division Street",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1147,7 +1147,7 @@
             "properties": {
                 "name": "New Seasons - Arbor Lodge",
                 "address": "6400 N Interstate Avenue",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1164,7 +1164,7 @@
             "properties": {
                 "name": "New Seasons - Cedar Hills",
                 "address": "3495 SW Cedar Hills Boulevard, Beaverton, OR",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1181,7 +1181,7 @@
             "properties": {
                 "name": "New Seasons - Concordia",
                 "address": "5320 NE 33rd Avenue",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1198,7 +1198,7 @@
             "properties": {
                 "name": "New Seasons - Fisher's Landing",
                 "address": "2100B SE 164th Avenue, Vancouver, WA",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1215,7 +1215,7 @@
             "properties": {
                 "name": "New Seasons - Happy Valley",
                 "address": "15861 SE Happy Valley Town Center Drive, Happy Valley, OR",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1232,7 +1232,7 @@
             "properties": {
                 "name": "New Seasons - Hawthorne",
                 "address": "4034 SE Hawthorne Boulevard",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1249,7 +1249,7 @@
             "properties": {
                 "name": "New Seasons - Mountain Park",
                 "address": "3 Monroe Parkway, Lake Oswego, OR",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1266,7 +1266,7 @@
             "properties": {
                 "name": "New Seasons - Orenco Station",
                 "address": "1453 NE 61st Avenue, Hillsboro, OR",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1283,7 +1283,7 @@
             "properties": {
                 "name": "New Seasons - Progress Ridge",
                 "address": "14805 SW Barrows Road, Beaverton, OR",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1300,7 +1300,7 @@
             "properties": {
                 "name": "New Seasons - Raleigh Hills",
                 "address": "7300 SW Beaverton-Hillsdale Highway",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
@@ -1317,7 +1317,7 @@
             "properties": {
                 "name": "New Seasons - Sellwood",
                 "address": "1214 SE Tacoma Street",
-                "website": "http://www.newseasonsmarket.com",
+                "website": "https://www.newseasonsmarket.com",
                 "gluten free": "yes",
                 "open1": "Monday - Sunday, 8am - 10pm"
             }
