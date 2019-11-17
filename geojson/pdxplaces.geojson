@@ -376,6 +376,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Name": "Test1",
+        "Contributor": "Moi",
+        "Reason": "learning geojson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.0,
+          45.52
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Name": "Powell's City of Books",
         "Contributor": "Cecily Walker",
         "Reason": "incredible bookstore"
