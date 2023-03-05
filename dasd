@@ -1,0 +1,295 @@
+[33mcommit cbdb0bd137da6fe15fa374ed3036b71a7c33092a[m[33m ([m[1;36mHEAD -> [m[1;32mabdo[m[33m)[m
+Author: Abdelrhman Abdelmoaty <Abdelr7manAbdelmoaty@gmail.com>
+Date:   Sun Mar 5 21:08:01 2023 +0200
+
+    removed
+
+[33mcommit d18021250aa9ba52a2cb5a66c5c021d1b8f1756c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: lyzidiamond <lyzidiamond@gmail.com>
+Date:   Wed Jul 3 16:20:21 2019 -0700
+
+    https
+
+[33mcommit 56499bcb64b5e0ea19770cb01f422e44e6006413[m
+Author: Lyzi Diamond <lyzi@codeforamerica.org>
+Date:   Tue Sep 30 10:19:57 2014 -0700
+
+    Add link to slides and fix typo
+
+[33mcommit 428000456d49baefa6a83254ac48c87fc60b054e[m
+Merge: 4156b3c f88bc2a
+Author: Lyzi Diamond <lyzi@codeforamerica.org>
+Date:   Sun Jul 20 13:53:28 2014 -0700
+
+    Merge pull request #15 from skeskali/master
+    
+    Added Powell's City of Books
+
+[33mcommit f88bc2a0361f02866a4cdacb76b796d7ebafdddc[m
+Author: Cecily Walker <cecily.walker@gmail.com>
+Date:   Sat Jul 19 09:52:19 2014 -0700
+
+    Added Powell's City of Books
+
+[33mcommit 4156b3c4aa97ee5b95f4dd64bc302efaf38edcca[m
+Merge: 477284c 1ed9163
+Author: Lyzi Diamond <lyzi@codeforamerica.org>
+Date:   Thu May 1 16:40:34 2014 -0700
+
+    Merge pull request #13 from sidewalkballet/master
+    
+    added point
+
+[33mcommit 1ed9163ed4b64babe02269aa827c6f599c00c56d[m
+Author: Courtney Claessens <claessens.c@gmail.com>
+Date:   Sun Apr 27 22:25:57 2014 -0400
+
+    added point
+
+[33mcommit 477284cd660da53c2843a49fc6ad24e741776d8f[m
+Merge: 9e0acf3 462f445
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Sat Apr 19 14:28:01 2014 -0400
+
+    Merge pull request #12 from geobrando/master
+    
+    fixed link to local pdxplaces.geojson
+
+[33mcommit 462f445d06712f0947b1079fa022fa7ee081f487[m
+Author: Brandon Knight <BKnight430@gmail.com>
+Date:   Fri Apr 18 16:26:22 2014 -0400
+
+    change to relative link
+
+[33mcommit 04602d2acf0f30f866fb3e3c98622e004d1585c5[m
+Author: Brandon Knight <BKnight430@gmail.com>
+Date:   Fri Apr 18 13:24:07 2014 -0400
+
+    fix link to local pdxplaces.geojson
+
+[33mcommit 9e0acf3b5c0732cc8a46b4aab0e1e91ad0a33a94[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Sun Apr 13 17:39:31 2014 -0400
+
+    Edited "what is this project"
+
+[33mcommit 9cbcdca80d0a040c04fbff1b1502452d69cf7ac2[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Fri Feb 21 16:32:05 2014 -0500
+
+    Include instructions for non-Chrome users
+
+[33mcommit ac3f5b3c8a1cb4d469d119e82263becbc5ef788f[m
+Merge: c24c3de debc768
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Feb 12 22:32:34 2014 -0500
+
+    Merge pull request #11 from Lunkster/master
+    
+    testing
+
+[33mcommit debc7687eab450ccafb88500349d29cd4caf3fd7[m
+Author: Henrik Lundqvist <h.lundqvist@gmail.com>
+Date:   Thu Feb 13 00:10:31 2014 +0100
+
+    testing
+
+[33mcommit c24c3de3941820ba498894ceb50b0909e9bb84d9[m
+Merge: 904868e 55139ed
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Sat Nov 16 23:45:13 2013 -0800
+
+    Merge pull request #10 from GeoSonrai/master
+    
+    Add Lucky Lab
+
+[33mcommit 55139ed7d2ad31e07c463cb4da4c2d5b99be73cd[m
+Author: GeoSonrai <seancooney@geosonrai.com>
+Date:   Fri Nov 15 23:34:29 2013 -0800
+
+    Add Lucky Lab
+
+[33mcommit 904868e37aa525848d158dd4c7d665c3de685f3b[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:42:55 2013 -0700
+
+    line breaks?
+
+[33mcommit 397bbc2b6349c91a62ca800e7bfb3df0c4621a27[m
+Merge: e80403c f6b8c21
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:26:20 2013 -0700
+
+    merging #8
+
+[33mcommit e80403c433087c6bf4b9fca088b9bc7f44e8b732[m
+Merge: 8f95d06 781d1b0
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:19:09 2013 -0700
+
+    merging #7
+
+[33mcommit 8f95d0645a1c9127376ed897c495bd043087ac3a[m
+Merge: fece9e0 430d40d
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:12:13 2013 -0700
+
+    merging #6
+
+[33mcommit fece9e03a2c541adbc5a27cfdb847a8270b0a38f[m
+Merge: 11d8060 283b3dd
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:07:47 2013 -0700
+
+    merging #5
+
+[33mcommit 11d8060c0f017acdb8c92c3f9ad38a3a6a5a57a9[m
+Merge: 93db976 c0b7fb2
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 17:01:00 2013 -0700
+
+    merging #4
+
+[33mcommit 93db976b519b4c41cb0edfd3378f50502889fba1[m
+Merge: 05fe0a4 0b776ab
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 16:56:46 2013 -0700
+
+    merging #3
+
+[33mcommit 05fe0a4fbf5f056475bc49d39d6488b6d71dc5a6[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 16:49:43 2013 -0700
+
+    removing files
+
+[33mcommit 5dad78f0e468686faca21825b33dc0de66a3a68d[m
+Author: Nick Doiron <ndoiron@mapmeld.com>
+Date:   Wed Oct 16 15:15:24 2013 -0700
+
+    fixing
+
+[33mcommit 7d1334e86c4d9d2606d29e493948c115de9b15f1[m
+Author: Nick Doiron <ndoiron@mapmeld.com>
+Date:   Wed Oct 16 15:07:14 2013 -0700
+
+    fixing
+
+[33mcommit 9132e8ae48d021ba429050fdca9fb40f8136aa04[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 16:27:34 2013 -0700
+
+    reverting
+
+[33mcommit 52bda698548de1251932a8d156e4b70f39d4a050[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 16:22:17 2013 -0700
+
+    Merging #2
+
+[33mcommit 788ea36b607fc73cfa7a0f22461cac779bb37dea[m
+Merge: ddd6c17 f14ae73
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 15:40:38 2013 -0700
+
+    using geografa
+
+[33mcommit f14ae73c924153ade0b19f763a425212942fc892[m
+Merge: 88a8864 e694785
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 15:34:35 2013 -0700
+
+    attempting to merge?
+
+[33mcommit ddd6c1710842544fb1ba59c4685f1850ef07e320[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 15:26:25 2013 -0700
+
+    Attempting to merge geografa
+
+[33mcommit 16b1e164172f5d19ab3826f2a55527272a22fd63[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Wed Oct 16 15:24:35 2013 -0700
+
+    Removed Chrome note.
+
+[33mcommit 7b035aebb99f1bb80730a7a32ce02a73eb0b60ae[m
+Author: Nick Doiron <ndoiron@mapmeld.com>
+Date:   Wed Oct 16 15:15:24 2013 -0700
+
+    turn 5a and 5b into a complete step
+
+[33mcommit facaf9d7e217e86c05209c1998e77503069d9c83[m
+Author: Nick Doiron <ndoiron@mapmeld.com>
+Date:   Wed Oct 16 15:07:14 2013 -0700
+
+    add .gitignore, GeoJSONLint
+
+[33mcommit e694785351263f96ce113a32da8f91d655b4823f[m
+Author: geografa <geografa@users.noreply.github.com>
+Date:   Mon Sep 30 19:08:22 2013 -0700
+
+    added court
+
+[33mcommit 88a8864c8b0b688d5a941a2b3a90fe1bfc440c3b[m
+Merge: f9c51b6 20cd161
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Sun Sep 29 19:08:38 2013 -0700
+
+    trying
+
+[33mcommit 20cd1615232308940e68a70274aab3b86e997d9c[m
+Author: geografa <rafamoustafah@gmail.com>
+Date:   Sun Sep 29 14:37:28 2013 -0700
+
+    Mapbox layers!
+
+[33mcommit a1652448b018b0252260f71509f5147b67e81f4b[m
+Author: geografa <geografa@users.noreply.github.com>
+Date:   Sun Sep 29 14:30:39 2013 -0700
+
+    2
+
+[33mcommit b0c9912a5f3736d8155a833eefa4fb26e7c99cfe[m
+Author: geografa <geografa@users.noreply.github.com>
+Date:   Sun Sep 29 14:28:49 2013 -0700
+
+    arrow
+
+[33mcommit f6b8c21f25a6d231e0e3a81a99826cae78c636b0[m
+Author: M. Edward (Ed) Borasky <znmeb@znmeb.net>
+Date:   Sun Sep 29 14:24:05 2013 -0700
+
+    added Ava Roasteria
+
+[33mcommit 781d1b0eb71bda66c7e5a17c30530fe1248228c3[m
+Author: anadances <anadances@gmail.com>
+Date:   Sun Sep 29 14:13:15 2013 -0700
+
+    added Half Pint coffee shop
+
+[33mcommit 430d40dcc0e8c84445f29550400e20e9f6aad5b7[m
+Author: Betsy <betsybreyer@gmail.com>
+Date:   Sun Sep 29 14:09:25 2013 -0700
+
+    Betsy added Kenilworth Coffeehouse
+
+[33mcommit 283b3dd726f523d02176927566f140bd12f9a54d[m
+Author: dillonma <dillon.mahmoudi@gmail.com>
+Date:   Sun Sep 29 14:09:11 2013 -0700
+
+    Dillon added some beer!
+
+[33mcommit f9c51b6070772bb59a243c27f268e4f61eb9ac6b[m
+Author: Lyzi Diamond <lyzidiamond@gmail.com>
+Date:   Sun Sep 29 14:09:09 2013 -0700
+
+    Lyzi added Irving Park
+
+[33mcommit c0b7fb211e1ce9356b1540fbb1c29a1fcf1f7712[m
+Author: kschwenkler <kevin.schwenkler@gmail.com>
+Date:   Sun Sep 29 14:08:52 2013 -0700
+
+    added a polygon
+
+[33mcommit 0b776abbbfbb2a9
